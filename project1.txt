@@ -1,4 +1,6 @@
-project1
+Proyecto 1
 
 Este es el primer archivo que pienso subir a Git Y GitHub en el curso profesional
 de Git y GitHub de Platzi.
+
+Este es el cambio que voy a agregar.
