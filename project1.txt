@@ -6,3 +6,5 @@ de Git y GitHub de Platzi.
 Este es el cambio que voy a agregar.
 
 Este el segundo cambio.
+
+Terce cambio realizado.
