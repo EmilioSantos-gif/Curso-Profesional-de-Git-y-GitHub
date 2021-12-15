@@ -7,4 +7,6 @@ Este es el cambio que voy a agregar.
 
 Este el segundo cambio.
 
-Terce cambio realizado.
+Tercer cambio realizado.
+
+Este cambio no sera guardad ya que vamos a hace run reset a una version anterior >:)
