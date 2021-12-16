@@ -1,9 +1,21 @@
 body
 {
+<<<<<<< HEAD
     align-items: center;
     text-align: left;
     font-family: "Arial";
     color: #494747;
     width: 70%;
     margin: 0 auto;
+=======
+    text-align: center;
+    font-family: Comic;
+    color: tomato;
+}
+
+#cabecera
+{
+    background-color:darkslateblue;
+    color:#fff;
+>>>>>>> cabecera
 }
