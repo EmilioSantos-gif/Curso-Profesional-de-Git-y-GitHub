@@ -1,21 +1,24 @@
 body
 {
-<<<<<<< HEAD
     align-items: center;
     text-align: left;
     font-family: "Arial";
     color: #494747;
     width: 70%;
     margin: 0 auto;
-=======
     text-align: center;
     font-family: Comic;
-    color: tomato;
+    border: 1px solid #DDD;
+
 }
 
 #cabecera
 {
     background-color:darkslateblue;
     color:#fff;
->>>>>>> cabecera
+
+    -webkit-box-shadow: 8px 7px 21px -3px rgba(0,0,0,0.43);
+    -moz-box-shadow: 8px 7px 21px -3px rgba(0,0,0,0.43);
+    box-shadow: 8px 7px 21px -3px rgba(0,0,0,0.43);
+
 }
